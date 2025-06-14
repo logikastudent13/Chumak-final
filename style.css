@@ -98,7 +98,11 @@ main {
     border: 3px solid white;
     padding: 7px;
 }
-
+.controls p {
+    color: white;
+    border: 3px solid white;
+    padding: 7px;
+}
 .car-name {
     position: absolute;
     top: 1%;
