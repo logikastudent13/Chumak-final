@@ -15,8 +15,6 @@ header {
     justify-content: center;
     align-items: center;
     border-bottom: 1px solid black;
-    color: white;
-    text-decoretion: none;
 }
 header a {
     font-size: 25px;
