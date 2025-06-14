@@ -97,6 +97,7 @@ main {
     color: white;
     border: 3px solid white;
     padding: 7px;
+        margin: 0;
 }
 .controls p {
     color: white;
